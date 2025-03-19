@@ -42,20 +42,4 @@ actor DBank {
     currentValue := currentValue * (1.01 ** Float.fromInt(timeElapsedS));
     startTime := currentTime;
   };
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
